@@ -325,7 +325,7 @@ em, i { font-style: italic; }
 
 u { text-decoration: none; border-bottom: 1px #333 solid; }
 
-blockquote { font-weight: 300; margin: 13px auto 13px -8px; padding: 13px 21px; border-left: 5px solid #f0f0f0; }
+blockquote { font-weight: 300; margin: 13px auto 13px -13px; padding: 13px 21px 13px 34px; border-left: 8px solid #f0f0f0; }
 blockquote cite { display: block; color: #555; margin-top: 8px; }
 blockquote cite:before { content: "\2014 \0020"; }
 blockquote cite a, blockquote cite a:visited, blockquote cite a:visited { color: #555; }
